@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+.venv/
+
+# MkDocs build output (if you ever run mkdocs build)
+site/
+
+# Documentation builds - Sphinx
+docs/build/
+_build/
